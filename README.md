@@ -64,6 +64,3 @@ For questions and discussions, join our **Solana developer community** or open a
 
 Telegram: [Dogewhiz](https://t.me/dogewhiz)
 
----
-**Disclaimer:** This project is in an early stage. Use at your own risk.
-
