@@ -48,19 +48,7 @@ solana program invoke \
   --signer <your-wallet-keypair.json>
 ```
 
-## Roadmap
-- Support for additional **Token2022 extensions**.
-- Improved user experience with **CLI commands**.
-- Integration with **Solana wallets** for seamless wrapping.
-
-## Contributing
-We welcome contributions! Please open an issue or submit a pull request if you find a bug or have an improvement idea.
-
-## License
-This project is licensed under the **MIT License**.
-
 ## Contact
-For questions and discussions, join our **Solana developer community** or open an issue on this repository.
 
 Telegram: [Dogewhiz](https://t.me/dogewhiz)
 
